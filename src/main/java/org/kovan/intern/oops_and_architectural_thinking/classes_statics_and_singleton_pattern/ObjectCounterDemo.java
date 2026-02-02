@@ -1,4 +1,4 @@
-package org.kovan.intern.oops_and_architectural_thinking;
+package org.kovan.intern.oops_and_architectural_thinking.classes_statics_and_singleton_pattern;
 
 class ObjectCounter{
     private static int count=0;
