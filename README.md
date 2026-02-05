@@ -1,2 +1,0 @@
-﻿# Kovan Labs Inter Java Task
-
