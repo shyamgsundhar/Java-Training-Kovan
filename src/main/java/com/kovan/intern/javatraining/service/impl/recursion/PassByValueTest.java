@@ -1,9 +1,7 @@
 package com.kovan.intern.javatraining.service.impl.recursion;
 
 import com.kovan.intern.javatraining.model.PassClassDemo;
-import org.springframework.stereotype.Service;
 
-@Service
 public class PassByValueTest {
 	public static void changeByPrimitive(int x){
 		x=59;

@@ -1,8 +1,5 @@
 package com.kovan.intern.javatraining.service.impl.recursion;
 
-import org.springframework.stereotype.Service;
-
-@Service
 public class RecursiveFibonacci {
     static int[] memo = new int[100];
     public static  int fibonaaciMemo(int n){
